@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Store.Tests",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Store.Tests\\Store.Tests.csproj",
+            "launchConfigurationId": "TargetFramework=;Store.Tests"
+        }
+    ]
+}
